@@ -1,0 +1,50 @@
+.col-sm-4{
+    background-color: darkmagenta;
+}
+.container{
+    padding-top: 10px;
+}
+body{
+    background-color: #0c5460;
+}
+
+.fa {
+    padding: 20px;
+    text-align: center;
+    margin: 5px 2px;
+    font-size: 30px;
+    width: 50px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-instagram {
+    background: brown;
+    color: white;
+}
+.fa-email {
+    background-color: red;
+    color: white;
+}
+
+
+.fa:hover {
+    opacity: 0.9;
+}
+.icons2{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: inline-block;
+
+}
