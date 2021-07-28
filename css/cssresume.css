@@ -1,11 +1,14 @@
 .col-sm-4{
     background-color: darkmagenta;
-
+    border-radius: 20px;
 }
-
+.container{
+    padding-top: 10px;
+    border: 50px solid purple;
+    border-radius: 20px;
+}
 body{
     background-color: #0c5460;
-    padding: 4px;
 }
 
 .fa {
@@ -34,10 +37,6 @@ body{
 }
 .fa-email {
     background-color: red;
-    color: white;
-}
-.fa-github {
-    background-color: black;
     color: white;
 }
 
